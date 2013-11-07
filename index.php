@@ -1,3 +1,6 @@
+<?php 
+
+echo ('
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -116,7 +119,7 @@
             <p>
 contact Bridging the Arts Lecturer and Program Coordinator:<br>
 Elise Putnam<br>
-eliseputnam@berkeley.edu</p>
+info@bthearts.org</p>
           </div> <!-- /span7 -->
 
 <!--           <div class="span5">
@@ -155,3 +158,5 @@ eliseputnam@berkeley.edu</p>
     <script src="static/js/application.js"></script>
   </body>
 </html>
+');
+?>
